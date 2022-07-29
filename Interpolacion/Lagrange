@@ -2,4 +2,4 @@ function lagrange(x) {
   console.log('Hola mundo')
 }
 
-Hola mundo
+//Comentario
