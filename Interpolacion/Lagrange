@@ -1,0 +1,5 @@
+function lagrange(x) {
+  console.log('Hola mundo')
+}
+
+lagrange(1)
